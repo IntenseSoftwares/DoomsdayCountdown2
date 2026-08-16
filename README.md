@@ -1,8 +1,8 @@
-# DoomsdayCountdown
+# DoomsdayCountdown V2
 
-A minimal Marvel Avengers **Doomsday countdown** website made to be used as a **Web Wallpaper** in **Lively Wallpaper**.
+A minimal Marvel Avengers **Doomsday countdown** website made to be used as a **Web Wallpaper** in **Lively Wallpaper** or **Wallpaper Engine**.
 
-Live site: https://intensesoftwares.github.io/DoomsdayCountdown/
+Live site: https://intensesoftwares.github.io/DoomsdayCountdown2/
 
 ---
 
