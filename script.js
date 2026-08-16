@@ -87,5 +87,12 @@ function tick() {
   }
 }
 
+const bg = document.getElementById("bg");
+
+document.addEventListener("click", () => {
+    bg.muted = false;
+    bg.play();
+}, { once: true });
+
 tick();
 setInterval(tick, 250);
