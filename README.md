@@ -20,7 +20,7 @@ Live site: https://intensesoftwares.github.io/DoomsdayCountdown2/
 2. Click **+ Add Wallpaper** (top-left)
 3. Choose **Web / Webpage**
 4. In the URL box, paste:
-(`https://intensesoftwares.github.io/DoomsdayCountdown/`)
+(`https://intensesoftwares.github.io/DoomsdayCountdown2/`)
 5. Click **OK / Add**
 6. Select the newly added wallpaper to apply it
 
@@ -33,7 +33,7 @@ If you want smoother playback and less network dependency, you can use it locall
 
 1. Open this repo on GitHub
 2. Click **Code** → **Download ZIP**
-3. Extract the ZIP anywhere (example: `D:\Wallpapers\DoomsdayCountdown\`)
+3. Extract the ZIP anywhere (example: `D:\Wallpapers\DoomsdayCountdown2\`)
 4. Open **Lively Wallpaper**
 5. Click **+ Add Wallpaper**
 6. Choose **HTML / Local Webpage**
@@ -46,12 +46,13 @@ If you want smoother playback and less network dependency, you can use it locall
 ## Tips (Lively)
 - A "Ticking" audio will play when theere is no application occupying the desktop view.
 - If you want less CPU usage, lower the update rate in `script.js` (example: update every `1000ms`).
+- Update: Recent browser update blocks the audio from playing until the page is clicked.
 
 ---
 
 ## Credits / Note
 This is a fan-made countdown wallpaper site for personal use and customization. Not affiliated by/with any organization.
-If you just want the background live wallpaper: Download it from Telegram -> [LINK](https://t.me/IntenseWallpapers/13027)
+If you just want the background live wallpaper: Download it from Telegram -> [LINK](https://t.me/s/IntenseWallpapers/14079) (The normal still png is also available below it)
 
 ---
 
